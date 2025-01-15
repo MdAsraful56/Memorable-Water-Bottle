@@ -1,17 +1,26 @@
+import { useState } from 'react'
 import './App.css'
-import Bottle from './componnts/Bottle/Bottle'
 import Bottles from './componnts/Bottles/Bottles'
+import Buys from './componnts/Buys/Buys'
+
 
 function App() {
 
+  const [buys, setBuys] = useState([]);
+
+  const handleBuyBtn = (bottle) => {
+    // console.log(bottle);
+    const newBuys = [...buys, bottle];
+    setBuys(newBuys);
+  }
 
   return (
     <>
-      <h1>Hello</h1>
+      <Bottles handleBuyBtn={handleBuyBtn} ></Bottles>
 
-      <Bottles></Bottles>
+      <Buys buys={buys} ></Buys>
 
-      <Bottle></Bottle>
+      
     </>
   )
 }

@@ -1,0 +1,22 @@
+[
+    { "id": 1, "name": "Classic Analog Watch", "price": 49.99, "img": "classic-analog-watch.jpg" },
+    { "id": 2, "name": "Digital Sports Watch", "price": 29.99, "img": "digital-sports-watch.jpg" },
+    { "id": 3, "name": "Luxury Gold Watch", "price": 199.99, "img": "luxury-gold-watch.jpg" },
+    { "id": 4, "name": "Smartwatch Pro", "price": 249.99, "img": "smartwatch-pro.jpg" },
+    { "id": 5, "name": "Minimalist Quartz Watch", "price": 89.99, "img": "minimalist-quartz-watch.jpg" },
+    { "id": 6, "name": "Diver's Watch", "price": 129.99, "img": "divers-watch.jpg" },
+    { "id": 7, "name": "Chronograph Steel Watch", "price": 179.99, "img": "chronograph-steel-watch.jpg" },
+    { "id": 8, "name": "Vintage Leather Watch", "price": 99.99, "img": "vintage-leather-watch.jpg" },
+    { "id": 9, "name": "Slimline Dress Watch", "price": 149.99, "img": "slimline-dress-watch.jpg" },
+    { "id": 10, "name": "Military Tactical Watch", "price": 59.99, "img": "military-tactical-watch.jpg" },
+    { "id": 11, "name": "Solar-Powered Watch", "price": 139.99, "img": "solar-powered-watch.jpg" },
+    { "id": 12, "name": "Automatic Skeleton Watch", "price": 229.99, "img": "automatic-skeleton-watch.jpg" },
+    { "id": 13, "name": "Fitness Tracker Watch", "price": 99.99, "img": "fitness-tracker-watch.jpg" },
+    { "id": 14, "name": "Ceramic Bezel Watch", "price": 159.99, "img": "ceramic-bezel-watch.jpg" },
+    { "id": 15, "name": "Pilot Aviator Watch", "price": 119.99, "img": "pilot-aviator-watch.jpg" },
+    { "id": 16, "name": "Waterproof Digital Watch", "price": 39.99, "img": "waterproof-digital-watch.jpg" },
+    { "id": 17, "name": "Elegant Rose Gold Watch", "price": 189.99, "img": "elegant-rose-gold-watch.jpg" },
+    { "id": 18, "name": "Stainless Steel Watch", "price": 129.99, "img": "stainless-steel-watch.jpg" },
+    { "id": 19, "name": "Hybrid Smartwatch", "price": 159.99, "img": "hybrid-smartwatch.jpg" },
+    { "id": 20, "name": "Customizable Digital Watch", "price": 49.99, "img": "customizable-digital-watch.jpg" }
+]
