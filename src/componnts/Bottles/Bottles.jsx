@@ -2,6 +2,8 @@ import PropTypes from "prop-types";
 import { useEffect } from "react";
 import { useState } from "react"
 import Bottle from "../Bottle/Bottle";
+// import { getStroedCart } from "../../utilities/localStroage";
+
 
 export default function Bottles({handleBuyBtn}){
 
@@ -13,6 +15,7 @@ export default function Bottles({handleBuyBtn}){
             .then(res => res.json())
             .then(data => setBottles(data));
     } ,[])
+
 
     return (
         <div className="mb-20">
